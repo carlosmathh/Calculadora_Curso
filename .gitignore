@@ -53,7 +53,7 @@ dist/
 *.spec
 
 
-codigo_usado_no_pyinstaller
+codigo_usado_no_pyinstaller.txt
 Calculadora.spec
 
 qtdesigner/
